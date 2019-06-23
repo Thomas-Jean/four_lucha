@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/genre/1/?api_key=get_a_key_dude&format=json"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":1,\"offset\":0,\"number_of_page_results\":1,\"number_of_total_results\":1,\"status_code\":1,\"results\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/genre\\/3060-1\\/\",\"date_added\":\"2008-04-01 01:32:48\",\"date_last_updated\":\"2010-11-26 13:29:37\",\"deck\":\"The \\\"action\\\" genre serves as a catch-all for many games from the 1970s and 1980s, before gaming diversified into distinct sub-genres.\",\"description\":null,\"guid\":\"3060-1\",\"id\":1,\"image\":{\"icon_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_avatar\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"medium_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_medium\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"screen_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_medium\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"screen_large_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_kubrick\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"small_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_small\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"super_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_large\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"thumb_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_avatar\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"tiny_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_mini\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"original_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/original\\/11\\/110673\\/3026329-gb_default-16_9.png\",\"image_tags\":\"All Images\"},\"name\":\"Action\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/games\\/?genre=1\"},\"version\":\"0\"}",
+      "headers": {
+        "Connection": "keep-alive",
+        "Content-Length": "1615",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "device_view=full; expires=Fri, 02-Oct-2020 01:24:23 GMT; Max-Age=2678400; path=/; HttpOnly",
+        "Date": "Tue, 01 Sep 2020 01:24:23 GMT",
+        "X-Timer": "S1598923463.380813,VS0,VE106",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

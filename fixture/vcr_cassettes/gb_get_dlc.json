@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/dlc/1/?api_key=get_a_key_dude&format=json"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":1,\"offset\":0,\"number_of_page_results\":1,\"number_of_total_results\":1,\"status_code\":1,\"results\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/dlc\\/3020-1\\/\",\"date_added\":\"2009-07-14 12:54:54\",\"date_last_updated\":\"2017-02-27 03:25:27\",\"deck\":\"The final DLC for Fallout 3 has a 50s sci-fi vibe to it with early screens depicting UFOs. It will partially take place in outer space.\",\"description\":null,\"game\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game\\/3030-20504\\/\",\"id\":20504,\"name\":\"Fallout 3\"},\"guid\":\"3020-1\",\"id\":1,\"image\":{\"icon_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_avatar\\/3\\/31936\\/1101963-mothership_zeta_banner.png\",\"medium_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_medium\\/3\\/31936\\/1101963-mothership_zeta_banner.png\",\"screen_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_medium\\/3\\/31936\\/1101963-mothership_zeta_banner.png\",\"screen_large_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_kubrick\\/3\\/31936\\/1101963-mothership_zeta_banner.png\",\"small_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_small\\/3\\/31936\\/1101963-mothership_zeta_banner.png\",\"super_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_large\\/3\\/31936\\/1101963-mothership_zeta_banner.png\",\"thumb_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_avatar\\/3\\/31936\\/1101963-mothership_zeta_banner.png\",\"tiny_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_mini\\/3\\/31936\\/1101963-mothership_zeta_banner.png\",\"original_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/original\\/3\\/31936\\/1101963-mothership_zeta_banner.png\",\"image_tags\":\"All Images\"},\"name\":\"Mothership Zeta\",\"platform\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/platform\\/3045-20\\/\",\"id\":20,\"name\":\"Xbox 360\"},\"release_date\":\"2009-08-03 00:00:00\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/fallout-3\\/3030-20504\\/dlc\\/#toc-dlc-1\"},\"version\":\"0\"}",
+      "headers": {
+        "Connection": "keep-alive",
+        "Content-Length": "1950",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "device_view=full; expires=Wed, 30-Sep-2020 00:46:31 GMT; Max-Age=2678400; path=/; HttpOnly",
+        "Date": "Sun, 30 Aug 2020 00:46:31 GMT",
+        "X-Timer": "S1598748391.429707,VS0,VE112",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

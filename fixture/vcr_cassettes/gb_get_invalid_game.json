@@ -1,0 +1,31 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/game/10000000/?api_key=get_a_key_dude&format=json"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"Object Not Found\",\"limit\":0,\"offset\":0,\"number_of_page_results\":0,\"number_of_total_results\":0,\"status_code\":101,\"results\":[]}",
+      "headers": {
+        "Server": "nginx",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "sat=725e57fe0f137d9a189e9f1e0dcde57f; path=/; domain=.giantbomb.com; HttpOnly",
+        "Cache-Control": "no-cache",
+        "Date": "Sun, 07 Jul 2019 16:48:31 GMT",
+        "X-Varnish": "811570695",
+        "Age": "0",
+        "Via": "1.1 varnish-v4",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "135",
+        "Connection": "keep-alive"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

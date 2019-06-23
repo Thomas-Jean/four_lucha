@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/types/?api_key=get_a_key_dude&format=json&"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":25,\"offset\":0,\"number_of_page_results\":25,\"number_of_total_results\":25,\"status_code\":1,\"results\":[{\"detail_resource_name\":\"accessory\",\"list_resource_name\":\"accessories\",\"id\":3000},{\"detail_resource_name\":\"character\",\"list_resource_name\":\"characters\",\"id\":3005},{\"detail_resource_name\":\"chat\",\"list_resource_name\":\"chats\",\"id\":2450},{\"detail_resource_name\":\"company\",\"list_resource_name\":\"companies\",\"id\":3010},{\"detail_resource_name\":\"concept\",\"list_resource_name\":\"concepts\",\"id\":3015},{\"detail_resource_name\":\"dlc\",\"list_resource_name\":\"dlc\",\"id\":3020},{\"detail_resource_name\":\"franchise\",\"list_resource_name\":\"franchises\",\"id\":3025},{\"detail_resource_name\":\"game\",\"list_resource_name\":\"games\",\"id\":3030},{\"detail_resource_name\":\"game_rating\",\"list_resource_name\":\"game_ratings\",\"id\":3065},{\"detail_resource_name\":\"genre\",\"list_resource_name\":\"genres\",\"id\":3060},{\"detail_resource_name\":\"location\",\"list_resource_name\":\"locations\",\"id\":3035},{\"detail_resource_name\":\"object\",\"list_resource_name\":\"objects\",\"id\":3055},{\"detail_resource_name\":\"person\",\"list_resource_name\":\"people\",\"id\":3040},{\"detail_resource_name\":\"platform\",\"list_resource_name\":\"platforms\",\"id\":3045},{\"detail_resource_name\":\"promo\",\"list_resource_name\":\"promos\",\"id\":1700},{\"detail_resource_name\":\"rating_board\",\"list_resource_name\":\"rating_boards\",\"id\":3070},{\"detail_resource_name\":\"region\",\"list_resource_name\":\"regions\",\"id\":3075},{\"detail_resource_name\":\"release\",\"list_resource_name\":\"releases\",\"id\":3050},{\"detail_resource_name\":\"review\",\"list_resource_name\":\"reviews\",\"id\":1900},{\"detail_resource_name\":\"theme\",\"list_resource_name\":\"themes\",\"id\":3032},{\"detail_resource_name\":\"user_review\",\"list_resource_name\":\"user_reviews\",\"id\":2200},{\"detail_resource_name\":\"video\",\"list_resource_name\":\"videos\",\"id\":2300},{\"detail_resource_name\":\"video_type\",\"list_resource_name\":\"video_types\",\"id\":2320},{\"detail_resource_name\":\"video_category\",\"list_resource_name\":\"video_categories\",\"id\":2320},{\"detail_resource_name\":\"video_show\",\"list_resource_name\":\"video_shows\",\"id\":2340}],\"version\":\"1.0\"}",
+      "headers": {
+        "Connection": "keep-alive",
+        "Content-Length": "2087",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "device_view=full; expires=Tue, 27-Oct-2020 12:58:55 GMT; Max-Age=2592000; path=/; HttpOnly",
+        "Date": "Sun, 27 Sep 2020 12:58:55 GMT",
+        "X-Timer": "S1601211536.706441,VS0,VE89",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

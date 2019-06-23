@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/promos/?api_key=get_a_key_dude&format=json&"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":100,\"offset\":0,\"number_of_page_results\":0,\"number_of_total_results\":\"6\",\"status_code\":1,\"results\":[],\"version\":\"1.0\"}",
+      "headers": {
+        "Connection": "keep-alive",
+        "Content-Length": "139",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "device_view=full; expires=Fri, 02-Oct-2020 20:19:41 GMT; Max-Age=2592000; path=/; HttpOnly",
+        "Date": "Wed, 02 Sep 2020 20:19:41 GMT",
+        "X-Timer": "S1599077981.494535,VS0,VE93",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

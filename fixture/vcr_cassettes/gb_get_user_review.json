@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/user_review/5/?api_key=get_a_key_dude&format=json"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":1,\"offset\":0,\"number_of_page_results\":1,\"number_of_total_results\":1,\"status_code\":1,\"results\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/user_review\\/2200-5\\/\",\"date_added\":\"2008-07-14 21:49:21\",\"date_last_updated\":\"2015-05-01 14:50:29\",\"deck\":\"Review Monster\",\"description\":\"<p>Hey, I bet this gives no tangible notice that I've completed this review. Sean thinks that people will anally fill out multiple reviews of multiple platforms all in one sitting. If they did, do you know what they'd fill out? The SAME review COPY\\/PASTED into the exact same review box for a separate platform.<br\\/><\\/p>\",\"dlc\":null,\"game\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game\\/3030-7624\\/\",\"id\":7624,\"name\":\"Pac-Man\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/pac-man\\/3030-7624\\/\"},\"guid\":\"2200-5\",\"id\":5,\"release\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/release\\/3050-19474\\/\",\"id\":19474,\"name\":\"Famicom Mini: Pac-Man\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/pac-man\\/3030-7624\\/release\\/3050-19474\\/\"},\"reviewer\":\"snide\",\"score\":5,\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/pac-man\\/3030-7624\\/user-reviews\\/2200-5\\/\",\"wikiObject\":\"Famicom Mini: Pac-Man\"},\"version\":\"0\"}",
+      "headers": {
+        "Connection": "keep-alive",
+        "Content-Length": "1237",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "device_view=full; expires=Sat, 31-Oct-2020 00:52:40 GMT; Max-Age=2592000; path=/; HttpOnly",
+        "Date": "Thu, 01 Oct 2020 00:52:40 GMT",
+        "X-Timer": "S1601513561.681246,VS0,VE93",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

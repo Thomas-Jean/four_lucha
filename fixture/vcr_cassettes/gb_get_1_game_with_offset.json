@@ -1,0 +1,31 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/games/?api_key=get_a_key_dude&format=json&limit=1&offset=1"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":1,\"offset\":1,\"number_of_page_results\":1,\"number_of_total_results\":69551,\"status_code\":1,\"results\":[{\"aliases\":null,\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game\\/3030-2\\/\",\"date_added\":\"2008-04-01 01:32:49\",\"date_last_updated\":\"2013-12-10 22:17:42\",\"deck\":\"Breakfree is a block-breaking game that is similar to Breakout; however, it is played from a first-person perspective.\",\"description\":\"<h2>Overview<\\/h2><p data-right-indent=\\\"0\\\" data-left-indent=\\\"0\\\">Breakfree, released in 1995 by <a href=\\\"\\/software-storm-inc\\/3010-7\\/\\\" data-ref-id=\\\"3010-7\\\">Software Storm, Inc.<\\/a>, is a first-person block-breaking game. The goal of the game is to destroy the walls that surround the player by bouncing projectiles into the walls. Like traditional block-breaking games, some blocks contain power-ups, and losing all of the projectiles means game over for the player.<\\/p>\",\"expected_release_day\":null,\"expected_release_month\":null,\"expected_release_quarter\":null,\"expected_release_year\":1995,\"guid\":\"3030-2\",\"id\":2,\"image\":{\"icon_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/image\\/square_avatar\\/621001-1056454795_00.gif\",\"medium_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/image\\/scale_medium\\/621001-1056454795_00.gif\",\"screen_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/image\\/screen_medium\\/621001-1056454795_00.gif\",\"screen_large_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/image\\/screen_kubrick\\/621001-1056454795_00.gif\",\"small_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/image\\/scale_small\\/621001-1056454795_00.gif\",\"super_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/image\\/scale_large\\/621001-1056454795_00.gif\",\"thumb_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/image\\/scale_avatar\\/621001-1056454795_00.gif\",\"tiny_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/image\\/square_mini\\/621001-1056454795_00.gif\",\"original_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/image\\/original\\/621001-1056454795_00.gif\",\"image_tags\":\"All Images,Box Art,PC Screenshots,Screenshots\"},\"image_tags\":[{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/images\\/3030-2\\/?filter=image_tag%3AAll+Images\",\"name\":\"All Images\",\"total\":5},{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/images\\/3030-2\\/?filter=image_tag%3ABox+Art\",\"name\":\"Box Art\",\"total\":1},{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/images\\/3030-2\\/?filter=image_tag%3APC+Screenshots\",\"name\":\"PC Screenshots\",\"total\":5},{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/images\\/3030-2\\/?filter=image_tag%3AScreenshots\",\"name\":\"Screenshots\",\"total\":5}],\"name\":\"Breakfree\",\"number_of_user_reviews\":0,\"original_game_rating\":null,\"original_release_date\":null,\"platforms\":[{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/platform\\/3045-94\\/\",\"id\":94,\"name\":\"PC\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/pc\\/3045-94\\/\",\"abbreviation\":\"PC\"}],\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/breakfree\\/3030-2\\/\"}],\"version\":\"1.0\"}",
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Age": "0",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Server": "nginx",
+        "Set-Cookie": "sat=2f1f874f840132e04e96ad671be3ba31; path=/; domain=.giantbomb.com; HttpOnly",
+        "Content-Length": "2903",
+        "Date": "Sun, 01 Sep 2019 03:05:38 GMT",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=300"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

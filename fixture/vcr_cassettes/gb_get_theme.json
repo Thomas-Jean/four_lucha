@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/theme/1/?api_key=get_a_key_dude&format=json"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":1,\"offset\":0,\"number_of_page_results\":1,\"number_of_total_results\":1,\"status_code\":1,\"results\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/theme\\/3032-1\\/\",\"guid\":\"3032-1\",\"id\":1,\"name\":\"Horror\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/games\\/?theme=1\"},\"version\":\"0\"}",
+      "headers": {
+        "Connection": "keep-alive",
+        "Content-Length": "305",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "device_view=full; expires=Mon, 26-Oct-2020 21:48:40 GMT; Max-Age=2592000; path=/; HttpOnly",
+        "Date": "Sat, 26 Sep 2020 21:48:40 GMT",
+        "X-Timer": "S1601156921.762462,VS0,VE77",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

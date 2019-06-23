@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/location/1/?api_key=get_a_key_dude&format=json"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":1,\"offset\":0,\"number_of_page_results\":1,\"number_of_total_results\":1,\"status_code\":1,\"results\":{\"aliases\":null,\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/location\\/3035-1\\/\",\"date_added\":\"2008-05-06 17:35:43\",\"date_last_updated\":\"2013-01-30 17:00:42\",\"deck\":\"Mercury is the closest planet to the sun and is found in many video games such as Blast Corps and Buck Rogers: Countdown to Doomsday\",\"description\":\"<p>Mercury is the closest planet to the solar system and is also the smallest planet now that Pluto has been removed. Mercury orbits the sun every 88 days and in many ways resembles Earth's moon with its craters. Mercury can normally only be viewed from Earth in the morning or twilight. It has no natural satellites and no atmosphere. It has an iron core. Recorded observations of Mercury go back to the first millenium BC.<\\/p>\",\"first_appeared_in_game\":[],\"guid\":\"3035-1\",\"id\":1,\"image\":{\"icon_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_avatar\\/0\\/2175\\/193220-mercury.jpg\",\"medium_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_medium\\/0\\/2175\\/193220-mercury.jpg\",\"screen_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_medium\\/0\\/2175\\/193220-mercury.jpg\",\"screen_large_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_kubrick\\/0\\/2175\\/193220-mercury.jpg\",\"small_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_small\\/0\\/2175\\/193220-mercury.jpg\",\"super_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_large\\/0\\/2175\\/193220-mercury.jpg\",\"thumb_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_avatar\\/0\\/2175\\/193220-mercury.jpg\",\"tiny_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_mini\\/0\\/2175\\/193220-mercury.jpg\",\"original_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/original\\/0\\/2175\\/193220-mercury.jpg\",\"image_tags\":\"All Images\"},\"image_tags\":[{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/images\\/3035-1\\/?filter=image_tag%3AAll+Images\",\"name\":\"All Images\",\"total\":1}],\"name\":\"Mercury\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/mercury\\/3035-1\\/\"},\"version\":\"0\"}",
+      "headers": {
+        "Connection": "keep-alive",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "device_view=full; expires=Fri, 02-Oct-2020 00:11:26 GMT; Max-Age=2592000; path=/; HttpOnly",
+        "Date": "Wed, 02 Sep 2020 00:11:26 GMT",
+        "X-Timer": "S1599005487.625804,VS0,VE101",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+        "transfer-encoding": "chunked"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

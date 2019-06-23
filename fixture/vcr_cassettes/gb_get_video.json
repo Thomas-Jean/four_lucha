@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/video/4/?api_key=get_a_key_dude&format=json"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":1,\"offset\":0,\"number_of_page_results\":1,\"number_of_total_results\":1,\"status_code\":1,\"results\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/video\\/2300-4\\/\",\"associations\":[{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/franchise\\/3025-51\\/\",\"guid\":\"3025-51\",\"id\":51,\"name\":\"Battlefield\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/battlefield\\/3025-51\\/\"},{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game\\/3030-20655\\/\",\"guid\":\"3030-20655\",\"id\":20655,\"name\":\"Battlefield: Bad Company\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/battlefield-bad-company\\/3030-20655\\/\"}],\"deck\":\"Bad Company has satisfying explosions that make it a winner.\",\"embed_player\":\"https:\\/\\/www.giantbomb.com\\/videos\\/embed\\/4\\/\",\"guid\":\"2300-4\",\"id\":4,\"length_seconds\":306,\"name\":\"Reviews: Bad Company Review\",\"premium\":false,\"publish_date\":\"2008-07-15 17:40:00\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/videos\\/bad-company-review\\/2300-4\\/\",\"image\":{\"icon_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_avatar\\/0\\/31\\/494092-video_review_small.jpg\",\"medium_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_medium\\/0\\/31\\/494092-video_review_small.jpg\",\"screen_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_medium\\/0\\/31\\/494092-video_review_small.jpg\",\"screen_large_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_kubrick\\/0\\/31\\/494092-video_review_small.jpg\",\"small_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_small\\/0\\/31\\/494092-video_review_small.jpg\",\"super_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_large\\/0\\/31\\/494092-video_review_small.jpg\",\"thumb_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_avatar\\/0\\/31\\/494092-video_review_small.jpg\",\"tiny_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_mini\\/0\\/31\\/494092-video_review_small.jpg\",\"original_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/original\\/0\\/31\\/494092-video_review_small.jpg\",\"image_tags\":\"All Images\"},\"user\":\"vinny\",\"hosts\":null,\"crew\":null,\"video_type\":\"Reviews\",\"video_show\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/video_show\\/2340-18\\/\",\"id\":18,\"title\":\"Reviews\",\"position\":47,\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/shows\\/reviews\\/\",\"image\":{\"icon_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_avatar\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"medium_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_medium\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"screen_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_medium\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"screen_large_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_kubrick\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"small_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_small\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"super_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_large\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"thumb_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_avatar\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"tiny_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_mini\\/11\\/110673\\/3026329-gb_default-16_9.jpg\",\"original_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/original\\/11\\/110673\\/3026329-gb_default-16_9.png\",\"image_tags\":\"All Images\"},\"logo\":null},\"video_categories\":[{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/video_category\\/2320-2\\/\",\"id\":2,\"name\":\"Reviews\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/videos\\/reviews\\/\"}],\"saved_time\":null,\"youtube_id\":\"MNPujNHPFgE\",\"low_url\":null,\"high_url\":\"https:\\/\\/static-giantbombvideo.cbsistatic.com\\/vr\\/video\\/bad_company_review_3500.mp4\",\"hd_url\":null,\"url\":\"bad_company_review.mp4\"},\"version\":\"0\"}",
+      "headers": {
+        "Connection": "keep-alive",
+        "Content-Length": "3772",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "device_view=full; expires=Sat, 31-Oct-2020 02:29:58 GMT; Max-Age=2592000; path=/; HttpOnly",
+        "Date": "Thu, 01 Oct 2020 02:29:58 GMT",
+        "X-Timer": "S1601519398.168199,VS0,VE109",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

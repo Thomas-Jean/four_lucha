@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/game_ratings/?api_key=get_a_key_dude&format=json&filter=name:esrb"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":100,\"offset\":0,\"number_of_page_results\":7,\"number_of_total_results\":7,\"status_code\":1,\"results\":[{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game_rating\\/3065-1\\/\",\"id\":1,\"guid\":\"3065-1\",\"image\":null,\"name\":\"ESRB: T\",\"rating_board\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/rating_board\\/3070-1\\/\",\"id\":1,\"name\":\"ESRB\"}},{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game_rating\\/3065-6\\/\",\"id\":6,\"guid\":\"3065-6\",\"image\":null,\"name\":\"ESRB: E\",\"rating_board\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/rating_board\\/3070-1\\/\",\"id\":1,\"name\":\"ESRB\"}},{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game_rating\\/3065-9\\/\",\"id\":9,\"guid\":\"3065-9\",\"image\":null,\"name\":\"ESRB: K-A\",\"rating_board\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/rating_board\\/3070-1\\/\",\"id\":1,\"name\":\"ESRB\"}},{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game_rating\\/3065-16\\/\",\"id\":16,\"guid\":\"3065-16\",\"image\":null,\"name\":\"ESRB: M\",\"rating_board\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/rating_board\\/3070-1\\/\",\"id\":1,\"name\":\"ESRB\"}},{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game_rating\\/3065-23\\/\",\"id\":23,\"guid\":\"3065-23\",\"image\":null,\"name\":\"ESRB: AO\",\"rating_board\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/rating_board\\/3070-1\\/\",\"id\":1,\"name\":\"ESRB\"}},{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game_rating\\/3065-26\\/\",\"id\":26,\"guid\":\"3065-26\",\"image\":null,\"name\":\"ESRB: EC\",\"rating_board\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/rating_board\\/3070-1\\/\",\"id\":1,\"name\":\"ESRB\"}},{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game_rating\\/3065-29\\/\",\"id\":29,\"guid\":\"3065-29\",\"image\":null,\"name\":\"ESRB: E10+\",\"rating_board\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/rating_board\\/3070-1\\/\",\"id\":1,\"name\":\"ESRB\"}}],\"version\":\"1.0\"}",
+      "headers": {
+        "Connection": "keep-alive",
+        "Content-Length": "1863",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "device_view=full; expires=Fri, 02-Oct-2020 01:19:00 GMT; Max-Age=2678400; path=/; HttpOnly",
+        "Date": "Tue, 01 Sep 2020 01:19:00 GMT",
+        "X-Timer": "S1598923140.154741,VS0,VE115",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

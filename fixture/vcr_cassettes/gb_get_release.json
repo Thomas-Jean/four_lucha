@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/release/158197/?api_key=get_a_key_dude&format=json"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":1,\"offset\":0,\"number_of_page_results\":1,\"number_of_total_results\":1,\"status_code\":1,\"results\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/release\\/3050-158197\\/\",\"date_added\":\"2018-01-13 19:12:38\",\"date_last_updated\":\"2018-01-13 19:12:38\",\"deck\":null,\"description\":null,\"expected_release_day\":null,\"expected_release_month\":null,\"expected_release_quarter\":null,\"expected_release_year\":null,\"game\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game\\/3030-21654\\/\",\"id\":21654,\"name\":\"Metal Gear Solid 2: Substance\"},\"game_rating\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/game_rating\\/3065-12\\/\",\"id\":12,\"name\":\"OFLC: MA15+\"},\"guid\":\"3050-158197\",\"id\":158197,\"image\":{\"icon_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_avatar\\/16\\/164924\\/2992002-9630788325-61527.jpg\",\"medium_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_medium\\/16\\/164924\\/2992002-9630788325-61527.jpg\",\"screen_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_medium\\/16\\/164924\\/2992002-9630788325-61527.jpg\",\"screen_large_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_kubrick\\/16\\/164924\\/2992002-9630788325-61527.jpg\",\"small_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_small\\/16\\/164924\\/2992002-9630788325-61527.jpg\",\"super_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_large\\/16\\/164924\\/2992002-9630788325-61527.jpg\",\"thumb_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_avatar\\/16\\/164924\\/2992002-9630788325-61527.jpg\",\"tiny_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_mini\\/16\\/164924\\/2992002-9630788325-61527.jpg\",\"original_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/original\\/16\\/164924\\/2992002-9630788325-61527.jpg\",\"image_tags\":\"All Images\"},\"maximum_players\":null,\"minimum_players\":1,\"name\":\"Metal Gear Solid 2: Substance\",\"platform\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/platform\\/3045-19\\/\",\"id\":19,\"name\":\"PlayStation 2\"},\"product_code_type\":null,\"product_code_value\":null,\"region\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/region\\/3075-11\\/\",\"id\":11,\"name\":\"Australia\"},\"release_date\":\"2011-11-07 00:00:00\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/metal-gear-solid-2-substance\\/3030-21654\\/release\\/3050-158197\\/#toc-release-158197\",\"widescreen_support\":0,\"images\":[],\"developers\":[{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/company\\/3010-2057\\/\",\"id\":2057,\"name\":\"Kojima Productions\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/kojima-productions\\/3010-2057\\/\"},{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/company\\/3010-2065\\/\",\"id\":2065,\"name\":\"Konami Computer Entertainment Japan, Inc.\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/konami-computer-entertainment-japan-inc\\/3010-2065\\/\"}],\"publishers\":[{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/company\\/3010-132\\/\",\"id\":132,\"name\":\"Mindscape\",\"site_detail_url\":\"https:\\/\\/www.giantbomb.com\\/mindscape\\/3010-132\\/\"}]},\"version\":\"0\"}",
+      "headers": {
+        "Connection": "keep-alive",
+        "Content-Length": "3000",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "device_view=full; expires=Sun, 25-Oct-2020 18:19:02 GMT; Max-Age=2592000; path=/; HttpOnly",
+        "Date": "Fri, 25 Sep 2020 18:19:02 GMT",
+        "X-Timer": "S1601057943.820378,VS0,VE111",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

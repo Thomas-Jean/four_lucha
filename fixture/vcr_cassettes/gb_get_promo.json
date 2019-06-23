@@ -1,0 +1,29 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://www.giantbomb.com/api/promo/1/?api_key=get_a_key_dude&format=json"
+    },
+    "response": {
+      "binary": false,
+      "body": "{\"error\":\"OK\",\"limit\":1,\"offset\":0,\"number_of_page_results\":1,\"number_of_total_results\":1,\"status_code\":1,\"results\":{\"api_detail_url\":\"https:\\/\\/www.giantbomb.com\\/api\\/promo\\/1700-1\\/\",\"date_added\":\"2013-02-12 01:29:20\",\"deck\":\"Bad Company has satisfying explosions that make it a winner.\",\"guid\":\"1700-1\",\"id\":1,\"image\":{\"icon_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_avatar\\/0\\/31\\/494092-video_review_small.jpg\",\"medium_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_medium\\/0\\/31\\/494092-video_review_small.jpg\",\"screen_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_medium\\/0\\/31\\/494092-video_review_small.jpg\",\"screen_large_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/screen_kubrick\\/0\\/31\\/494092-video_review_small.jpg\",\"small_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_small\\/0\\/31\\/494092-video_review_small.jpg\",\"super_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_large\\/0\\/31\\/494092-video_review_small.jpg\",\"thumb_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/scale_avatar\\/0\\/31\\/494092-video_review_small.jpg\",\"tiny_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/square_mini\\/0\\/31\\/494092-video_review_small.jpg\",\"original_url\":\"https:\\/\\/giantbomb1.cbsistatic.com\\/uploads\\/original\\/0\\/31\\/494092-video_review_small.jpg\",\"image_tags\":\"All Images\"},\"link\":\"https:\\/\\/www.giantbomb.com\\/shows\\/bad-company-review\\/2970-15816\\/free-video\",\"name\":\"Bad Company Review\",\"resource_type\":\"video\",\"user\":\"Vinny Caravella\"},\"version\":\"0\"}",
+      "headers": {
+        "Connection": "keep-alive",
+        "Content-Length": "1536",
+        "Cache-Control": "no-cache",
+        "Content-Type": "application/json; charset=utf-8",
+        "Set-Cookie": "device_view=full; expires=Fri, 02-Oct-2020 20:19:40 GMT; Max-Age=2592000; path=/; HttpOnly",
+        "Date": "Wed, 02 Sep 2020 20:19:40 GMT",
+        "X-Timer": "S1599077981.635769,VS0,VE108",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

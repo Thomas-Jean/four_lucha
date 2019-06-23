@@ -1,0 +1,35 @@
+defmodule FourLucha.Resource.Company do
+  @moduledoc false
+  defstruct(
+    abbreviation: nil,
+    aliases: nil,
+    api_detail_url: nil,
+    characters: nil,
+    concepts: nil,
+    date_added: nil,
+    date_founded: nil,
+    date_last_updated: nil,
+    deck: nil,
+    description: nil,
+    developed_games: nil,
+    developer_releases: nil,
+    distributor_releases: nil,
+    guid: nil,
+    id: nil,
+    image: nil,
+    image_tags: nil,
+    location_address: nil,
+    location_city: nil,
+    location_country: nil,
+    location_state: nil,
+    locations: nil,
+    name: nil,
+    objects: nil,
+    people: nil,
+    phone: nil,
+    published_games: nil,
+    publisher_releases: nil,
+    site_detail_url: nil,
+    website: nil
+  )
+end
